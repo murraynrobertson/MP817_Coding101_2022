@@ -1,0 +1,7 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15
+Property	job	1	:	Solubility	;									
+Units	job	1	:	Energies	in	kcal/mol	;	Volume	in	A^3	;	Temperature	in	K
+														
+Nr	Compound	log10(x_solub)	mu(self)	mu(solv)	DG_fus	mu(water)	N_Ring	Volume	N_Amino	MolWeight	w_solub	log10(S)	Exp-State	Tmelt
+1	aspirin	-2.22759956	-2.47056901	-1.64521797	2.19325833	-1.57337377	6	207.8008	0	180.1583	0.0120239905	-1.18471851	solid	404.15
+2	tetrahydrothiophene	0.00000000	-3.07391043	-3.07391043	0.00000000	-3.05878089	5	118.0691	0	88.1722	NA	0.00000000	liquid	176.95

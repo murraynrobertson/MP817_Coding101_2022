@@ -1,0 +1,7 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15
+Property	job	1	:	Solubility	;									
+Units	job	1	:	Energies	in	kcal/mol	;	Volume	in	A^3	;	Temperature	in	K
+														
+Nr	Compound	log10(x_solub)	mu(self)	mu(solv)	DG_fus	mu(water)	N_Ring	Volume	N_Amino	MolWeight	w_solub	log10(S)	Exp-State	Tmelt
+1	aspirin	-5.87980560	-2.47056901	3.30386871	2.19325833	3.33310701	6	207.6973	0	180.1583	5.710747E-07	-5.25262095	solid	404.15
+2	perfluorocyclic_ether	0.00000000	-6.45003937	-6.45003937	0.00000000	-6.43131865	5	305.7910	0	416.0601	NA	0.00000000	liquid	273.15
