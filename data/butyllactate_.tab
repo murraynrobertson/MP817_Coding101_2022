@@ -1,0 +1,7 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15
+Property	job	1	:	Solubility	;									
+Units	job	1	:	Energies	in	kcal/mol	;	Volume	in	A^3	;	Temperature	in	K
+														
+Nr	Compound	log10(x_solub)	mu(self)	mu(solv)	DG_fus	mu(water)	N_Ring	Volume	N_Amino	MolWeight	w_solub	log10(S)	Exp-State	Tmelt
+1	aspirin	-1.56276710	-2.47056901	-2.54612922	2.19325833	-2.51116156	6	208.5238	0	180.1583	0.0335143608	-0.73833287	solid	404.15
+2	butyllactate	0.00000000	-3.19109975	-3.19109975	0.00000000	-3.16979658	0	195.4230	0	146.1850	NA	0.00000000	liquid	245.15

@@ -1,0 +1,7 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15
+Property	job	1	:	Solubility	;									
+Units	job	1	:	Energies	in	kcal/mol	;	Volume	in	A^3	;	Temperature	in	K
+														
+Nr	Compound	log10(x_solub)	mu(self)	mu(solv)	DG_fus	mu(water)	N_Ring	Volume	N_Amino	MolWeight	w_solub	log10(S)	Exp-State	Tmelt
+1	aspirin	-1.25756222	-2.47056901	-2.95971087	2.19325833	-3.03230348	6	208.3935	0	180.1583	0.1113360101	-0.21689417	solid	404.15
+2	cyclopentanone	0.00000000	-1.03160171	-1.03160171	0.00000000	-1.01803450	5	115.8360	0	84.1169	NA	0.00000000	liquid	273.15
